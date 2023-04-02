@@ -32,7 +32,7 @@ public class mail
 			@Override
 			protected PasswordAuthentication getPasswordAuthentication() 
 			{				
-				return new PasswordAuthentication("cakeshop9566@gmail.com", "jglfummtbctlbzxz");
+				return new PasswordAuthentication("cakeshop9566@gmail.com", "*****");
 			}
 			
 			
